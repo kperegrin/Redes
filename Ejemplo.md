@@ -8,3 +8,4 @@ Red Dead Redemption 2 is a 2018 action-adventure game developed and published by
 |--|--|--|
 | Gta V | Segunda mano | 5€|
 | Red dead redemption 2 | Nuevo | 20€|
+---
