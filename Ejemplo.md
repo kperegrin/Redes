@@ -4,3 +4,7 @@ Red Dead Redemption 2 is a 2018 action-adventure game developed and published by
 
 [Qr](https://github.com/kperegrin/Redes/blob/main/frame.png)
 ![Qr-Redes](https://github.com/kperegrin/Redes/blob/main/frame.png?raw=true)
+|  Producto| Calidad |Precio|
+|--|--|--|
+| Gta V | Segunda mano | 5€|
+| Red dead redemption 2 | Nuevo | 20€|
